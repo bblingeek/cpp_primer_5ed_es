@@ -1,9 +1,10 @@
-/*
- * exercise13.cpp
- *
- *  Created on: Mar 26, 2015
- *      Author: Bhaskar Narayan Bhat
- */
+//============================================================================
+// Name : exercise13.cpp
+// Author : Bhaskar Narayan Bhat
+// Version :
+// Copyright : Your copyright notice
+// Description : None
+//============================================================================
 
 #include <iostream>
 using namespace std;
