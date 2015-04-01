@@ -1,8 +1,10 @@
 #Files ignored in current folder
 configure
 Makefile.in
+Makefile
 
 #Files ignored in src/ folder
 src/Makefile.in
+src/Makefile
 src/*.o
 src/*.exe
