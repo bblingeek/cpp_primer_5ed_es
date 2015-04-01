@@ -1,5 +1,7 @@
+#Files ignored in current folder
 Makefile.in
 
+#Files ignored in src/ folder
 src/Makefile.in
 src/*.o
 src/*.exe
