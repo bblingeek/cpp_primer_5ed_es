@@ -1,2 +1,5 @@
+Makefile.in
+
+src/Makefile.in
 src/*.o
 src/*.exe
