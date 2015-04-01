@@ -1,4 +1,6 @@
 #Files ignored in current folder
+aclocal.m4
+autom4te*
 configure
 Makefile.in
 Makefile
