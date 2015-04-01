@@ -1,4 +1,5 @@
 #Files ignored in current folder
+configure
 Makefile.in
 
 #Files ignored in src/ folder
