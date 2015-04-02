@@ -6,6 +6,7 @@ config.status
 configure
 Makefile.in
 Makefile
+INSTALL
 
 #Files ignored in src/ folder
 src/Makefile.in
