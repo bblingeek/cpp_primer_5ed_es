@@ -13,3 +13,4 @@ src/Makefile.in
 src/Makefile
 src/*.o
 src/*.exe
+src/.deps*
