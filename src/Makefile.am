@@ -4,7 +4,7 @@ AM_LDFLAGS =
 
 # this lists the binaries to produce, the (non-PHONY, binary) targets in
 # the previous manual Makefile
-bin_PROGRAMS = exercise1_2 exercise1_3 exercise1_4 exercise1_5 exercise1_9 exercise1_10 exercise1_11 exercise1_13_1 exercise1_13_2 exercise1_13_3 exercise1_16 exercise1_19 exercise1_20 exercise1_21 exercise1_22 exercise1_23 exercise2_4 exercise2_8
+bin_PROGRAMS = exercise1_2 exercise1_3 exercise1_4 exercise1_5 exercise1_9 exercise1_10 exercise1_11 exercise1_13_1 exercise1_13_2 exercise1_13_3 exercise1_16 exercise1_19 exercise1_20 exercise1_21 exercise1_22 exercise1_23 exercise2_4 exercise2_8 exercise2_18
 
 exercise1_2_SOURCES = exercise1_2.cpp
 exercise1_3_SOURCES = exercise1_3.cpp
@@ -24,3 +24,4 @@ exercise1_22_SOURCES = exercise1_22.cpp ../include/Sales_item.h
 exercise1_23_SOURCES = exercise1_23.cpp ../include/Sales_item.h
 exercise2_4_SOURCES = exercise2_4.cpp
 exercise2_8_SOURCES = exercise2_8.cpp
+exercise2_18_SOURCES = exercise2_18.cpp
